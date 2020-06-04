@@ -1,0 +1,1 @@
+# android_vendor_vsmart_V740A
